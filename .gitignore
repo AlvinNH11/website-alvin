@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+
+# macOS specific files
+.DS_Store
+
+# Python specific files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.vscode/ # Optional, if you don't want to share editor settings
